@@ -13,6 +13,6 @@
 
 To install the nvidia drivers you need to update mac os from the app store, when you restart you have to select MAC OS INSTALLER in OpenCore, if you start the normal mac disk the update installation will not be saved, after updating it you will be able to install without errors nvidia drivers.
 
-##Note
+## Note
 
 YOU NEED TO Setup SMBios  in PlataformInfo in the config.plist
