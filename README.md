@@ -8,3 +8,5 @@
   - ASUS PRIME A320M-K: M-ATX
   - Corsair VS450
   - Nvidia GTX 1050ti 4GB Asus
+## Known bugs
+To install the nvidia drivers you need to update mac os from the app store, when you restart you have to select MAC OS INSTALLER in OpenCore, if you start the normal mac disk the update installation will not be saved, after updating it you will be able to install without errors nvidia drivers
