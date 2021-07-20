@@ -1,5 +1,7 @@
 ## OpenCore HighSierra files (AMD)
-  This is mainly here for my benefit more than anyone elses, but you're welcome to use or modify these files in any way if you believe    they can be of assistance to you.
+  This is mainly here for my benefit more than anyone elses, but you're welcome to use or modify these files in any way if you believe they can be of assistance to you.
+  
+  With the following specifications it has been possible to run HighSierra without errors
 
 ## PC Specs
   - AMD Ryzen 3 1300x- 4-Core 3.5GHz
